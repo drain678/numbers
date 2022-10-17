@@ -1,11 +1,11 @@
 You have to convert it:
 
-973 3cd
+973	3cd
 
-541 21d
+541	21d
 
-12 c
+12	c
 
-37 25
+37	25
 
-46 2e
+46	2e
